@@ -12,7 +12,7 @@
 	zip entpacken und irgendwo lokal speichern. Beispielsweise aufm Desktop.
 
 - In der Konsole folgendes eingeben:
-	pip install --proxy=https://rb-proxy-de.bosch.com:8080 jupyter  
+	pip install --proxy=http://rb-proxy-de.bosch.com:8080 jupyter  
 	
 - Mit der Konsole in den entpackten Ordner navigieren und folgendes eingeben:
 	jupyter notebook
